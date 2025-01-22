@@ -5,7 +5,7 @@ import Image from "next/image"
 import Link from "next/link"
 import { NavItem } from "./NavItem"
 import { Menu, X } from "lucide-react"
-import type { NavbarProps } from "@/types/Navigation"
+import type { NavbarProps } from "@/types/navigation"
 import { assets } from "@/assets/assets"
 import { DownloadModal } from "../../modals/DownloadModal"
 

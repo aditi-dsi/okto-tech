@@ -1,6 +1,6 @@
 import { Navbar } from "@/components/landing-page/navigation/Navbar";
-import { Hero } from "@/components/landing-page/Hero";
-import { navigationItems } from "@/config/Navigation";
+import { Hero } from "@/components/landing-page/hero";
+import { navigationItems } from "@/config/navigation";
 
 export default function HomePage() {
   return (

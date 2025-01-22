@@ -3,7 +3,7 @@
 import { useState } from "react"
 import Link from "next/link"
 import { ChevronDown } from "lucide-react"
-import type { NavItem } from "@/types/Navigation"
+import type { NavItem } from "@/types/navigation"
 
 export function NavItem({ item, isMobile = false }: { item: NavItem; isMobile?: boolean }) {
   const [isOpen, setIsOpen] = useState(false)
