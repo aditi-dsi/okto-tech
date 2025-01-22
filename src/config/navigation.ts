@@ -23,7 +23,7 @@ export const navigationItems: NavItem[] = [
     children: [
       {
         label: "Documentation",
-        href: "/docs",
+        href: "https://docs-okto.vercel.app/docs",
       },
     ],
   },

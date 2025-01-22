@@ -45,7 +45,7 @@ export function Hero() {
               Okto Lite is a fully interoperable embedded wallet
             </p>
             <Link
-              href="/docs"
+              href="https://docs-okto.vercel.app/docs"
               className="inline-flex items-center justify-center h-12 px-8 font-medium bg-black text-white rounded-3xl hover:bg-gray-800 transition-colors"
             >
               View Docs
